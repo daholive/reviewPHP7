@@ -6,6 +6,8 @@
 
     echo "outra coisa";
 
+    echo "agora deu certo";
+
 ?>
 
 
