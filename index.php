@@ -18,6 +18,8 @@
 
     echo "teste na primeira pasta";
 
+    echo "teste da branch 3";
+
 ?>
 
 
