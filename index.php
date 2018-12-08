@@ -8,6 +8,8 @@
 
     echo "agora deu certo";
 
+    echo "teste na master";
+
 ?>
 
 
