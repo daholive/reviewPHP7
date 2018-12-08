@@ -14,6 +14,7 @@
     echo "outra alteracao";
 
     echo "teste de rebase";
+    echo "teste de rebase na nova branch";
 
 ?>
 
