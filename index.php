@@ -19,6 +19,8 @@
     echo "teste na primeira pasta";
     echo "novo personagem";
 
+    echo "teste da branch 3";
+
 ?>
 
 
