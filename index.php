@@ -17,6 +17,7 @@
     echo "teste de rebase na nova branch";
 
     echo "teste na primeira pasta";
+    echo "novo personagem";
 
 ?>
 
